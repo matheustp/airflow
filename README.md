@@ -123,5 +123,5 @@ You can also use this to run a bash shell or any other command in the same envir
     docker run --rm -ti puckel/docker-airflow ipython
 
 # Wanna help?
-
+https://excalidraw.com/#json=v1o-SD7xPp-B8tw8K1ilw,951R7o9OjlBZAh3odLcKIA
 Fork, improve and PR. ;-)
